@@ -1,15 +1,20 @@
-# 💫 About Me:
-20 | Software Enginerring Student, CMU
+<div align="center">
+  
+# Hey there! 👋 I'm Chindanai
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChindanaiNaKub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChindanaiNaKub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChindanaiNaKub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;21+y%2Fo+%7C+CMU+Thailand+%F0%9F%87%B9%F0%9F%87%AD;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChindanaiNaKub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```javascript
+const chindanai = {
+    age: 21,
+    education: "Software Engineering @ CMU",
+    location: "Thailand 🇹🇭",
+    currentFocus: "Building awesome projects",
+    funFact: "I debug with console.log and I'm not ashamed 😄"
+};
